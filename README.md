@@ -7,20 +7,17 @@ What I Learned
 
 While building this project, I practiced:
 
-Creating HTML pages and using HTML elements
-Creating links between different pages
-Adding images to web pages
-Using unordered and ordered lists
-Organizing files and folders
-Using the command line to navigate and manage my project
-Using Git to track changes
-Creating commits with meaningful commit messages
-Pushing my project to GitHub
-Technologies Used
-HTML
-Git
-GitHub
-Command Line
-Project
-
-This project is part of the Foundations course in The Odin Project.
+-Creating HTML pages and using HTML elements
+-Creating links between different pages
+-Adding images to web pages
+-Using unordered and ordered lists
+-Organizing files and folders
+-Using the command line to navigate and -manage my project
+-Using Git to track changes
+-Creating commits with meaningful commit -messages
+-Pushing my project to GitHub
+-Technologies Used
+-HTML
+-Git
+-GitHub
+-Command Line
